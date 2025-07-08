@@ -2,9 +2,7 @@ export default function App() {
   return (
     <main>
       <div>
-        <div>
-          <h1>Hello man dem</h1>
-        </div>
+        <h1>Hello react js</h1>
       </div>
     </main>
   );
